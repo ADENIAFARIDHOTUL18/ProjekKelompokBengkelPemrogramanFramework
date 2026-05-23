@@ -1,0 +1,17 @@
+[
+  { "customerID": 101, "customerName": "Fikri Muhaffizh", "email": "fikri@example.com", "phone": "081234567890", "loyalty": "Gold" },
+  { "customerID": 102, "customerName": "Siti Aminah", "email": "siti@example.com", "phone": "081234567891", "loyalty": "Silver" },
+  { "customerID": 103, "customerName": "Budi Santoso", "email": "budi@example.com", "phone": "081234567892", "loyalty": "Bronze" },
+  { "customerID": 104, "customerName": "Dewi Lestari", "email": "dewi@example.com", "phone": "081234567893", "loyalty": "Gold" },
+  { "customerID": 105, "customerName": "Eko Prasetyo", "email": "eko@example.com", "phone": "081234567894", "loyalty": "Silver" },
+  { "customerID": 106, "customerName": "Farah Quinn", "email": "farah@example.com", "phone": "081234567895", "loyalty": "Bronze" },
+  { "customerID": 107, "customerName": "Gilang Dirga", "email": "gilang@example.com", "phone": "081234567896", "loyalty": "Gold" },
+  { "customerID": 108, "customerName": "Hani Syarifah", "email": "hani@example.com", "phone": "081234567897", "loyalty": "Silver" },
+  { "customerID": 109, "customerName": "Indra Wijaya", "email": "indra@example.com", "phone": "081234567898", "loyalty": "Bronze" },
+  { "customerID": 110, "customerName": "Joko Anwar", "email": "joko@example.com", "phone": "081234567899", "loyalty": "Silver" },
+  { "customerID": 111, "customerName": "Karin Novilda", "email": "karin@example.com", "phone": "081234567800", "loyalty": "Gold" },
+  { "customerID": 112, "customerName": "Lutfi Hakim", "email": "lutfi@example.com", "phone": "081234567801", "loyalty": "Bronze" },
+  { "customerID": 113, "customerName": "Maya Septha", "email": "maya@example.com", "phone": "081234567802", "loyalty": "Silver" },
+  { "customerID": 114, "customerName": "Naufal Abshar", "email": "naufal@example.com", "phone": "081234567803", "loyalty": "Bronze" },
+  { "customerID": 115, "customerName": "Oki Setiana", "email": "oki@example.com", "phone": "081234567804", "loyalty": "Gold" }
+]

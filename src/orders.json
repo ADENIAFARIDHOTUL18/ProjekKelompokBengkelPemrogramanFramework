@@ -1,0 +1,17 @@
+[
+  { "orderID": 1, "customerName": "Fikri Muhaffizh", "status": "Completed", "totalPrice": 150000, "orderDate": "2024-03-01" },
+  { "orderID": 2, "customerName": "Siti Aminah", "status": "Pending", "totalPrice": 45000, "orderDate": "2024-03-02" },
+  { "orderID": 3, "customerName": "Budi Santoso", "status": "Cancelled", "totalPrice": 85000, "orderDate": "2024-03-03" },
+  { "orderID": 4, "customerName": "Dewi Lestari", "status": "Completed", "totalPrice": 210000, "orderDate": "2024-03-04" },
+  { "orderID": 5, "customerName": "Eko Prasetyo", "status": "Completed", "totalPrice": 125000, "orderDate": "2024-03-05" },
+  { "orderID": 6, "customerName": "Farah Quinn", "status": "Pending", "totalPrice": 67000, "orderDate": "2024-03-06" },
+  { "orderID": 7, "customerName": "Gilang Dirga", "status": "Completed", "totalPrice": 300000, "orderDate": "2024-03-07" },
+  { "orderID": 8, "customerName": "Hani Syarifah", "status": "Cancelled", "totalPrice": 55000, "orderDate": "2024-03-08" },
+  { "orderID": 9, "customerName": "Indra Wijaya", "status": "Completed", "totalPrice": 175000, "orderDate": "2024-03-09" },
+  { "orderID": 10, "customerName": "Joko Anwar", "status": "Pending", "totalPrice": 92000, "orderDate": "2024-03-10" },
+  { "orderID": 11, "customerName": "Karin Novilda", "status": "Completed", "totalPrice": 420000, "orderDate": "2024-03-11" },
+  { "orderID": 12, "customerName": "Lutfi Hakim", "status": "Completed", "totalPrice": 110000, "orderDate": "2024-03-12" },
+  { "orderID": 13, "customerName": "Maya Septha", "status": "Cancelled", "totalPrice": 35000, "orderDate": "2024-03-13" },
+  { "orderID": 14, "customerName": "Naufal Abshar", "status": "Pending", "totalPrice": 128000, "orderDate": "2024-03-14" },
+  { "orderID": 15, "customerName": "Oki Setiana", "status": "Completed", "totalPrice": 250000, "orderDate": "2024-03-15" }
+]
